@@ -9,7 +9,7 @@ const About = () => {
           <span className="text-primary"> Safi</span>
         </h1>
         <div className="subheading mb-5">
-          Lebanon North · (965) 76 499 386 ·
+          Lebanon North · (961) 76 499 386 ·
           <a href="mailto:safi.abdulkader@gmail.com">safi.abdulkader@gmail.com</a>
         </div>
         <p className="lead mb-5">Hi There I'm Abdulkader Safi. A Full Stack web developer having specialization in back end & front end development, I have 6+ years of experience in Web development, Lebanese lives in North Lebanon</p>
