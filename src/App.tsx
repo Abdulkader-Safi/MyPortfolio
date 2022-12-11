@@ -4,7 +4,7 @@ import { Content, NavBar } from './Components';
 import './Assets/App.css';
 function App() {
   return (
-    <div className='page-top'>
+    <div id='page-top'>
       <NavBar />
       <Content />
     </div>
