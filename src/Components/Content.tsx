@@ -1,5 +1,5 @@
 import React from 'react'
-import { About, Education, Experience } from './ContentBody'
+import { About, Education, Experience, Skills } from './ContentBody'
 
 const Content = () => {
   return (
@@ -9,6 +9,9 @@ const Content = () => {
       <Experience />
       <hr className="m-0" />
       <Education />
+      <hr className="m-0" />
+      <Skills />
+      <hr className="m-0" />
     </div>
   )
 }
